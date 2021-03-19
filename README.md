@@ -1,3 +1,3 @@
 # DATA-SCIENCE
 
-my project on data science
+my data science project 
